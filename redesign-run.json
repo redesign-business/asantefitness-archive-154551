@@ -18,5 +18,9 @@
   ],
   "draftAttempts": [
     "draft-716b4bbb"
-  ]
+  ],
+  "buildCommands": [
+    "build-1"
+  ],
+  "repairCommands": []
 }
