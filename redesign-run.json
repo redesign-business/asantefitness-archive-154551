@@ -15,5 +15,8 @@
   "implementationModel": "deepseek/deepseek-v4-pro",
   "researchAttempts": [
     "research-3c4e8e21"
+  ],
+  "draftAttempts": [
+    "draft-716b4bbb"
   ]
 }
