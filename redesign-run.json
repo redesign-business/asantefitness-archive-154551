@@ -1,0 +1,16 @@
+{
+  "slug": "asantefitness-archive-154551",
+  "originalUrl": "https://web.archive.org/web/20220702171657/http://www.asantefitness.com/",
+  "repoUrl": "https://github.com/redesign-business/asantefitness-archive-154551",
+  "expectedRedesignUrl": "https://asantefitness-archive-154551.redesign.business",
+  "sandbox": "redesign-asantefitness-archive-154551-554cea0e",
+  "aiGatewayKeyId": "kZULmBhqYMJavOnMVXCT6A2Dolc9PcLJnNQEEN8syLtVkNNc",
+  "aiGatewayKeyName": "redesign-asantefitness-archive-154551-ms83r9c3",
+  "aiGatewayBudget": 1,
+  "startedAt": "2026-07-30T22:45:52.284Z",
+  "status": "running",
+  "phase": "setup",
+  "researchModel": "deepseek/deepseek-v4-pro",
+  "draftModel": "openai/gpt-5.6-sol",
+  "implementationModel": "deepseek/deepseek-v4-pro"
+}
